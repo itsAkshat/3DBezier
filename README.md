@@ -7,3 +7,5 @@ Running the code (APlot.m) on MATLAB will take in your inputs in nulmber of cont
 the respective control points.
 
 The result window will be a 3D plot of the curve, (This is only a 3D plot of many cross sectional 3D curves and not an actual 3D solid)
+
+#Exalmple of Working
