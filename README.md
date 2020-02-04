@@ -8,4 +8,11 @@ the respective control points.
 
 The result window will be a 3D plot of the curve, (This is only a 3D plot of many cross sectional 3D curves and not an actual 3D solid)
 
-#Exalmple of Working
+# Example of Working
+![Example](https://github.com/itsAkshat/3DBezier/blob/master/ex1.PNG)
+
+# How coordinates are entred
+![Coord](https://github.com/itsAkshat/3DBezier/blob/master/Capture.PNG)
+
+# Time profile of the code
+![](https://github.com/itsAkshat/3DBezier/blob/master/timeprofile.PNG)
